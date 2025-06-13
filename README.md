@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This website showcases my journey as a self-ta
 
 ## 🌐 Live Demo
 
-Visit the live site here: [https://ardi-koding.github.io/](https://ardi-koding.github.io/)
+Visit the live site here: [https://ardi-koding.github.io/portofolio-website/]
 
 ## 📌 Features
 
